@@ -9,9 +9,7 @@
     <h1> Dan's Blog </h1>
     <hr>
     <ul> 
-        <li><a href="p1"> Blah </a></li>
-        <li><a href="p1"> Blah </a></li>
-        <li><a href="p1"> Blah </a></li>
+        <li><a href="./posts/p1/main.html"> Could we build a time machine? </a></li>
     </ul>
     </div>
   </body>
